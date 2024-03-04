@@ -29,7 +29,7 @@
 		<DeploymentName>UE_5.3</DeploymentName>
 		<EngineVersion>5.3.2-29314046+++UE5+Release-5.3</EngineVersion>
 		<EngineCompatibleVersion>5.3.2-29314046+++UE5+Release-5.3</EngineCompatibleVersion>
-		<CommandLine>&quot;E:/School Projects/Repos/UnrealSpaceShooter/UnrealSpaceShooter/UnrealSpaceShooter.uproject&quot; -AUTH_LOGIN=unused -AUTH_PASSWORD=f0a3c98195084a2c86ab0381a4cbbec1 -AUTH_TYPE=exchangecode -epicapp=UE_5.3 -epicenv=Prod -EpicPortal -epicusername=CrazyEyeTobi -epicuserid=d3b0652658fc40d69a633a0a5155be9c -epiclocale=en -epicsandboxid=ue</CommandLine>
+		<CommandLine>CommandLineRemoved</CommandLine>
 		<LanguageLCID>0</LanguageLCID>
 		<AppDefaultLocale>en-CA</AppDefaultLocale>
 		<BuildVersion>++UE5+Release-5.3-CL-29314046</BuildVersion>
